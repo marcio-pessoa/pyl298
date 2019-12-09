@@ -1,1 +1,1 @@
-# L298
+# MicroPython L298 Driver Control

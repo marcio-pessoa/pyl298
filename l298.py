@@ -1,7 +1,7 @@
 """
 ---
 name: l298.py
-description: L298 Dual Full-Bridge Driver Control package
+description: MicroPython L298 Dual Full-Bridge Driver Control package
 copyright: 2017-2019 Marcio Pessoa
 people:
   developers:
